@@ -21,62 +21,53 @@ Building systems that combine:
 
 ---
 
-### 💻 TECH STACK & TOOLS
+### 1️⃣ CORE SKILLS
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</p>
+<i>These describe what I actually do.</i>
+
+- **Operational Intelligence Systems**
+- **AI Agent Architecture**
+- **Decision Intelligence Systems**
+- **Signal Monitoring and Risk Detection**
+- **Infrastructure Intelligence Platforms**
+- **Agent Orchestration**
+- **Forward Deployed Engineering**
+- **Developer Infrastructure**
+- **AI System Design**
+
+---
+
+### 2️⃣ TECH STACK
+
+<i>Main technologies that fit my domain.</i>
+
+- **Programming:** `Python` `JavaScript` `TypeScript`
+- **Backend:** `FastAPI` `Node.js` `Express` `REST APIs` `WebSockets`
+- **AI / LLM Systems:** `LLM Integration` `Agent Systems` `RAG Pipelines` `Prompt Engineering` `Vector Databases` `Embeddings`
+- **Infrastructure:** `GCP` `Linux` `Docker` `Server Deployment` `SSH` `CI/CD`
+- **Databases:** `PostgreSQL` `Redis` `Vector Databases`
+- **Frontend & Data Vis:** `React` `Next.js` `TailwindCSS` `Data Visualization`
+
+---
+
+### 3️⃣ TOOLS
+
+<i>Tools that match my current ecosystem.</i>
+
+- **AI Tools:** `Claude` `Gemini` `OpenAI APIs` `Groq` `Ollama`
+- **Agent / Automation:** `MCP Tools` `Agent Frameworks` `Workflow Automation` `Task Orchestration`
+- **Development:** `Git` `GitHub` `VS Code` `Postman`
+- **Data & Monitoring:** `Telemetry Systems` `Signal Monitoring` `Event Processing` `Operational Dashboards`
 
 ---
 
 ### 📈 GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahneelmusharraf&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&text_color=E6EDF3&icon_color=4493F8&title_color=E6EDF3" alt="Shahneel's GitHub Stats" />
+  <img src="https://github.readme-stats.vercel.app/api?username=shahneelmusharraf&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&text_color=E6EDF3&icon_color=4493F8&title_color=E6EDF3&include_all_commits=true&count_private=true" alt="Shahneel's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahneelmusharraf&theme=dracula&hide_border=true&background=0D1117&ring=4493F8&fire=4493F8&currStreakNum=E6EDF3&currStreakLabel=4493F8&sideNums=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3" alt="Shahneel's GitHub Streak" />
 </p>
-
----
-
-### 🛡️ TECHNICAL INFRASTRUCTURE &mdash; What I Work On
-
-- **AI Agent Infrastructure**: Architecting robust environments for autonomous agents.
-- **Decision Intelligence Systems**: Converting raw signals into structured, actionable insights.
-- **Operational Monitoring Engines**: Building high-fidelity telemetry and monitoring.
-- **Infrastructure Risk Analysis**: Designing systems for operational risk detection.
-- **MCP Tools & Ecosystems**: Creating Model Context Protocol servers for agent ecosystems.
-- **Skills Libraries**: Developing automated reasoning and execution capabilities.
-
----
-
-### 🧪 AESL LABS &mdash; Experimental Environment
-
-**AESL Labs** is our experimental environment where we design and release intelligence modules. The goal is to create a marketplace of operational intelligence components.
-
-**Active developments include:**
-> `// AI Agents` &nbsp; &middot; &nbsp; `// MCP Servers` &nbsp; &middot; &nbsp; `// Operational Skills` &nbsp; &middot; &nbsp; `// Decision Frameworks` &nbsp; &middot; &nbsp; `// Infrastructure Automation`
-
----
-
-### ⚙️ SYSTEMS ARCHITECTURE
-
-Examples of systems I design, build, and deploy:
-
-| System Type | Purpose & Impact |
-| :--- | :--- |
-| **Signal Monitoring Engines** | Real-time tracking and synthesis of operational data. |
-| **Decision Dashboards** | Transforming raw data into high-leverage context for operators. |
-| **Agent Orchestration** | Managing multi-agent workflows across diverse infrastructure domains. |
-| **Telemetry Analysis** | Deep inspection of infrastructure health and operational status. |
-| **Risk Detection** | Proactive identification of physical and operational vulnerabilities. |
 
 ---
 
