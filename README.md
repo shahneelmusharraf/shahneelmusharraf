@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
   <h1>Shahneel Musharraf</h1>
-  <p><b>Forward Deployed Architect &middot; Co-Founder & CTO at Contigrate</b></p>
+  <p><b>Forward Deployed Architect at Contigrate</b></p>
   <p><i>I design and deploy intelligence systems for sovereign infrastructure operators.</i></p>
 </div>
 
