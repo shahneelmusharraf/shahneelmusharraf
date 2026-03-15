@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/notmudassir/contigrate/main/src/assets/contigrate-icon.svg" width="80" alt="Contigrate Icon" />
   <br/>
   <h1>Shahneel Musharraf</h1>
   <p><b>Forward Deployed Architect &middot; Co-Founder & CTO at Contigrate</b></p>
@@ -19,6 +18,31 @@ Building systems that combine:
 - ⚙️ **Automation tools and APIs**
 
 ...to help operators make faster and better decisions.
+
+---
+
+### 💻 TECH STACK & TOOLS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+
+---
+
+### 📈 GITHUB ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahneelmusharraf&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&text_color=E6EDF3&icon_color=4493F8&title_color=E6EDF3" alt="Shahneel's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahneelmusharraf&theme=dracula&hide_border=true&background=0D1117&ring=4493F8&fire=4493F8&currStreakNum=E6EDF3&currStreakLabel=4493F8&sideNums=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3" alt="Shahneel's GitHub Streak" />
+</p>
 
 ---
 
@@ -65,6 +89,17 @@ Examples of systems I design, build, and deploy:
 My focus is building systems that convert signals into judgment. Human judgment stays. Operational repetition goes.
 
 ---
+
+### 🌐 CONNECT
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
 
 <div align="center">
   <br/>
